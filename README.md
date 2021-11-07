@@ -11,3 +11,6 @@
 
 ### 效果展示：
 
+<center class="half">
+    <img src="./img/demo.png" width="300"/>
+</center>
